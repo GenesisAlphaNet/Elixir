@@ -1,8 +1,8 @@
 # Elixir
 
-### Donanım: En az 8 GB RAM ve 100 GB Disk gereklidir.
+### Donanım: En az 8 GB RAM ve 100 GB Disk gereklidir. (Hetznerdeki CPX31 yeterli)
 ### İşletim sistemi : Ubuntu
-### Servis Sağlayıcısı olarak Hetzner önerilir.
+### Servis Sağlayıcısı olarak Hetzner önerilir. 
 ### Yeni bir metamask cüzdanı açmanız önerilir.
 
  
